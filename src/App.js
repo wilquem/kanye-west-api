@@ -14,7 +14,6 @@ export default function App() {
     <div className="container-kanye">
       <div className="row">
       <h1>"{data.quote}"</h1>
-      <p>- Kanye West</p>
       </div>
     </div>
   );
